@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b0717e4435122abe683e905fe7fe54fb525b7af3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/a8523fca799832b917c42ea3fa3adbdb4464e785/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87c376a0aeb475e70822c5146e4129edb579a884/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/25d3f736e3b3286c7890cd7484b230204c0ffb84/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_246c94ba34922b03a34ee5ef08a765cc06fa5de2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/91deae5ed36bc67a42e62905876921cb780c359b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb8848daf77169b7c46918285deec5acf18ca418/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_f82ec94e55b1d142d31292b343ea7ee7d4a46045/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/ec98b18aba67939206d3eeeb41c70129c65fd48d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b80fcb6deb9c1441415ca0afa066498e72c69659/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/e4547768758478f7cfb38c1902b9190d4114cd11/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d65551930fb6c145d8f6415f4d4da55511600fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="662912822dd5fb498158e840025b8ec84e05ba61">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5ea41da2699cd91524f663b5515bbc899287bc71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/9684b48564568decd7c3abeb381b422492f08b2b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2db53315021ec7340fdf1f1bba1ac2916320b353/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/28ce94ad7569cb5d13542329c56adefad706c9d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2352f66d0eecf867a50e74b62479e90b8e88e02f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/cfdba519ecd0cbbdf4e63baed37c5c52bf184ae0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95266b5a69b6e1e4574ffa238bc758518f912ae2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/95b07ea6b24deae08511f89dfe598edc6a68f300/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c740c85a319f47d80b7a55a64d9c6e1130303b45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/208cc1c9097dca31a5c03102523c947285f1d438/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65b79a112197564fe6e75ca1b23d842c2aa57017/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/0c313dc75c23e5538fb2876c0206a9bfcc1dd970/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_371b76c965cc316803afd20a10a68c3fcaebbf11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/d4459e1a56fea51b43f6723b1e4b07e2559f1dc1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33efb839a357073273bde25989ad3b8ef1625cc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/5b4a939d929f4ac84bed8d8d368fb9b19003e0b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf4f06dd3d95fcb9539cb0e3300ebe4f9905e3d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/d8fa163dc8cf71f5af226aeaad306fe18527142d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04be4be670cdb6d8a3faff42ce854394283b2691/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/10ee7750ecef047efb1b62dfe24fe810615534ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b77728f3ab40e0dc94f2742297efd56a3a8dbc67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/e501d7cea4c7599a57c6c86f0d881803b5f38377/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac4d418443ae076e70180b8b8142e088f1336e7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/cabdda04758a84e19da02877aa1ffa0d2c07c4b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5bcfdddd4ddd582cedb5d3e6face477e41329ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kushagra/.android/build-cache/0e24595cd1eb523fa2a8d518648560430fadd9c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/kushagra/Desktop/AndroidStudioProjects/Capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2b1e377beb6eae037807e4d14e11767dac29b65/classes.dex" />
+    </item>
+
+</items>
