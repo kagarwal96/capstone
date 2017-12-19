@@ -268,7 +268,7 @@ public class MapsActivity extends ActionBarActivity implements OnMapReadyCallbac
                 AlertDialog.Builder ImageDialog = new AlertDialog.Builder(MapsActivity.this);
                 // Image view in alert box for image
                 ImageView showImage = new ImageView(MapsActivity.this);
-                // Download image from specified URL
+                // Download image from specified URL and replace URL in execute as per your requirement
                 new DownloadImage(showImage,MapsActivity.this).execute("http://104.196.253.182:8080/static/uploads/"+fileName);
                 ImageDialog.setView(showImage);
                 ImageDialog.setNegativeButton("Ok", new DialogInterface.OnClickListener() {
