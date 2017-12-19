@@ -7,6 +7,9 @@ package kushagra.capstone;
 public class Location_object {
     private double latitude;
     private double longitude;
+    public Location_object() {
+
+    }
     public Location_object(double latitude,double longitude) {
         this.latitude=latitude;
         this.longitude=longitude;
@@ -19,4 +22,5 @@ public class Location_object {
     public double getLongitude() {
         return longitude;
     }
+
 }
